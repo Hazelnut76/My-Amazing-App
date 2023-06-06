@@ -1,0 +1,51 @@
+.container {
+  font-family: Arial, sans-serif;
+  color: #7c7c7c;
+  border: 1px solid #dadde1;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
+h1 {
+  font-size: 24px;
+}
+h2 {
+  font-size: 16px;
+}
+h3 {
+  font-size: 16px;
+}
+h4 {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  padding: 10px 0px;
+  position: relative;
+  right: -65px;
+  list-style: none;
+}
+.measures {
+  font-size: 16px;
+  position: relative;
+  top: -35px;
+  right: 15px;
+  list-style: none;
+}
+ul {
+  position: relative;
+  top: -85px;
+  right: -250px;
+  list-style: none;
+  font-size: 16px;
+}
+img {
+  position: relative;
+  bottom: -82px;
+  left: 0px;
+  list-style: none;
+  font-size: 16px;
+}
+a {
+  text-decoration: none;
+}
