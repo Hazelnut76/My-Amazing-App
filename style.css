@@ -49,3 +49,11 @@ img {
 a {
   text-decoration: none;
 }
+.link {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+  font-size: 13px;
+  font-family: monospace;
+  padding: 0px auto;
+}
